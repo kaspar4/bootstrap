@@ -2,3 +2,5 @@
 # Ehi, Emacs, this is -*- shell-script -*-
 
 echo "Bootstrapping the Polymath development environment"
+
+echo "Done"
